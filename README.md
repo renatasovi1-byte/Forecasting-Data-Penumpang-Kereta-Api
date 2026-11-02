@@ -72,10 +72,9 @@ The **COVID-19 dummy is statistically significant and reduces passenger volume**
 
 ```
 .
-├── data/                 # [ISI: nama file data, mis. penumpang_kereta.csv]
-├── notebooks/            # [ISI: nama notebook/skrip utama]
-├── outputs/              # [ISI: grafik dan tabel hasil, jika ada]
-├── requirements.txt      # [ISI: jika ada]
+├── data_kereta.xslx/                
+├── FORECAST/            
+├── FINAL ANALISIS/              # Output (grafik)
 └── README.md
 ```
 
