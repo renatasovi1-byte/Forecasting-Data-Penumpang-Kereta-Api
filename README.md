@@ -73,7 +73,7 @@ The **COVID-19 dummy is statistically significant and reduces passenger volume**
 ```
 .
 ├── data_kereta.xslx/                
-├── FORECAST/            
+├── FORECAST.ipynb/            
 ├── FINAL ANALISIS/              # Output (grafik)
 └── README.md
 ```
