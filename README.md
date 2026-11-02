@@ -86,7 +86,7 @@ cd Forecasting-Data-Penumpang-Kereta-Api
 pip install -r requirements.txt
 ```
 
-Then open the main notebook/script **[ISI: nama file]** in VS Code (or Jupyter) and run all cells in order. The core libraries are pandas, NumPy, SciPy, statsmodels, and matplotlib. **[ISI: sesuaikan dengan import di kodemu]**
+Then open the main notebook/script **FORECAST.ipynb** in VS Code (or Jupyter) and run all cells in order. The core libraries are pandas, NumPy, SciPy, statsmodels, and matplotlib.
 
 ## Author
 
